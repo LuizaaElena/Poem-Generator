@@ -21,6 +21,11 @@
 A vintage, old-book styled poem generator powered by **Google Gemini**.  
 Choose a topic, style, and language, then let the model write a poem for you in a romantic, elegant interface that looks like a classic book page.
 
+## 📸 Preview
+<p align='center'>
+    <img src='public/preview.png'>
+</p>
+
 ## ✨ Features
 
 - 🎨 **Vintage book UI** – parchment background, page-like cards, bookmark ribbon
